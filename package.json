@@ -1,0 +1,22 @@
+{
+  "name": "playwrighttraces",
+  "version": "1.0.0",
+  "description": "A simple demo containing selected playwright features implemented",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shobhashruthi/PlaywrightTraces.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shobhashruthi/PlaywrightTraces/issues"
+  },
+  "homepage": "https://github.com/Shobhashruthi/PlaywrightTraces#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.42.1",
+    "@types/node": "^20.11.24"
+  }
+}
